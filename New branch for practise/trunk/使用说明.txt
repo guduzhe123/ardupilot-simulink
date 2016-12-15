@@ -1,0 +1,9 @@
+一、说明
+请按照如下步骤运行：
+1，双击slblocks.m打开Matalb软件，这样可以保证工作目录指向当前文件夹。
+2，运行slblocks.m,加载自定义simulink模块库(可以不加载)
+3, 运行flight_control_run.m，显示响应曲线
+4，可以打开Flight_control_System.slx，查看相应模块的数据。
+
+2014b以上版本Matlab支持SVN代码管理，低版本Matlab根据以下网址内容进行配置后，也可以支持SVN。
+http://cn.mathworks.com/matlabcentral/fileexchange/24307-tortoise-svn-wrapper?s_tid=srchtitle
