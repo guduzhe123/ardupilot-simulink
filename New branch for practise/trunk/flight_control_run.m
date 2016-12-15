@@ -1,5 +1,5 @@
 %% 运行飞控仿真
-
+close all; clc; clear all;
 %% 加载参数%加载仿真用例
 LoadParameters
 %% 飞行模式设置
